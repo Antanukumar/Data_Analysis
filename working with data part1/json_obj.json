@@ -1,0 +1,8 @@
+json_obj= {   "zoo_animal":"lion",
+ 
+    "food":["meat","Veggies","Honey"],
+
+  "Fur":"Golden",
+  "Clothes":"null",
+ "diet":[{"Zoo_animal":"Gazelle","food":"grass","fur":"Brown"}]
+}
